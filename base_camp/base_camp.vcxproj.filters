@@ -21,9 +21,6 @@
     <ClCompile Include="ThreadPool.h">
       <Filter>Файлы заголовков</Filter>
     </ClCompile>
-    <ClCompile Include="SharedQueue.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
     <ClCompile Include="ThreadPool.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
